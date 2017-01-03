@@ -1,0 +1,10 @@
+.fw_b {font-weight: bold;}
+.f18 {font-size: 18px;}
+.f25 {font-size: 25px;}
+.d5 {float: left; overflow: hidden; width: 5%;}
+.d10 {float: left; overflow: hidden; width: 10%;}
+.d15 {float: left; overflow: hidden; width: 15%;}
+.d20 {float: left; overflow: hidden; width: 20%;}
+.d30 {float: left; overflow: hidden; width: 30%;}
+.d50 {float: left; overflow: hidden; width: 50%;}
+.dclear{clear: both;}
